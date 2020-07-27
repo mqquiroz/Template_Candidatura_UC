@@ -10,4 +10,4 @@ En Overleaf usar:
 - Compiler: pdflatex
 - Tex Live version: 2017 (Legacy)
 
-Puedes ver el documento pdf compilado aquí: https://figshare.com/articles/online_resource/Template_Candidatura_UC_pdf/12721112
+Puedes ver el documento pdf compilado aquí: [Template_Candidatura_UC.pdf](./Template_Candidatura_UC.pdf)
