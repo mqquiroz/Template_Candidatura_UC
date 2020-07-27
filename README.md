@@ -9,3 +9,5 @@ by Marco Quiroz (mqquiroz@uc.cl) - 2018
 En Overleaf usar:
 - Compiler: pdflatex
 - Tex Live version: 2017 (Legacy)
+
+Puedes ver el documento pdf compilado aquí: https://figshare.com/articles/online_resource/Template_Candidatura_UC_pdf/12721112
